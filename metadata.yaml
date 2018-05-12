@@ -1,4 +1,8 @@
 _repo: Talks-on-Teaching-Literature_50082
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50082-h/images/cover.jpg
 creator:
   author:
     agent_name: Bates, Arlo
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2784
     wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50082#Talks-on-Teaching-Literature
 gutenberg_issued: '2015-09-30'
 gutenberg_type: Text
 identifiers:
